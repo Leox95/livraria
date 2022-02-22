@@ -1,0 +1,79 @@
+.geral{
+    background-color: lightgrey;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+.imgCard{
+    width: 40%;
+    display: inline;
+    margin-right: 10px;
+}
+.card{
+    width: 250px;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    padding: 1em;
+    margin: 10px 10px;
+    
+}
+.sair{
+        text-decoration: none;
+        border: solid;
+        border: 2px;
+        border-color: blue;
+        border-radius: 5px;
+        width: 80px;
+        text-align: center;
+        color: blue;
+        margin-right: 10px;
+        background-color: white;
+    
+}
+.logout{
+    text-decoration: none;
+    border: solid;
+    border: 2px;
+    border-color: blue;
+    border-radius: 5px;
+    width: 80px;
+    text-align: center;
+    color: blue;
+    margin-right: 10px;
+    background-color: white;
+    font-weight: bold;
+}
+li{
+    list-style: none;
+    display: inline-flex;
+}
+.App{
+    background-color: lightgray;
+    display: flex;
+    justify-content: flex-start;
+    
+    
+}
+.descrição{
+    text-align: center;
+    justify-content: center;
+}
+.nome{
+ font-size: 15px;
+}
+.autor{
+    font-size: 10px;
+    color: blue;
+}
+.editora{
+    font-size: 10px;
+    color: lightgray
+}
+.saibaMais{
+    font-size: 15px;
+}
+.pagina{
+    padding-left: 2em;
+}

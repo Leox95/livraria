@@ -1,0 +1,23 @@
+.entrar{
+    background-image: url('../assets/BackgroundNoz.png');;
+    position:fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.marca{
+    display:inline;
+    font-size: 30px;
+    color: white
+}
+.caixa{
+   width: 60%;
+   margin-top: 200px;
+   margin-left: 30px;
+   
+}
+.btncadastro{
+    text-decoration: none;
+    color: white
+}

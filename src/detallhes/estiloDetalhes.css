@@ -1,0 +1,36 @@
+
+.caixaLivros{
+    width: 50%;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+}
+.imgDetalhes{
+    width: 100%;
+}
+p{
+    text-align: left;
+    
+}
+.botoes{
+    display: flex;
+    justify-content: space-evenly;
+}
+.voltar{
+    text-decoration: none;
+    border: solid;
+    border-radius: 5px;
+    width: 80px;
+    text-align: center;
+    color: blue
+}
+.resenha{
+    text-decoration: none;
+    border: solid;
+    border-radius: 5px;
+    width: 100px;
+    text-align: center;
+    color:blue
+}
