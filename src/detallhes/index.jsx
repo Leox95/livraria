@@ -33,7 +33,7 @@ useEffect(() => {
         <p> {descricao}</p>
         <div className="botoes">
             <Link className='voltar' to='/'>Voltar</Link>
-            <a target="_blank" href={`https://youtube.com/results?search_query=${detalhes.nome} trailer`}>
+            <a target="_blank" href={`https://youtube.com/results?search_query=${nome} resenha`}>
                 <button className="resenha">Resenha</button>
             </a>
         </div>
